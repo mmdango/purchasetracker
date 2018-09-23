@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PurchaseTracker</string>
+    <string name="welcome_text">Welcome to the Purchase Tracker</string>
+    <string name="description_text">Please log in to your bank accounts to receive notifications whenever a transaction is made on your account.</string>
+    <string name="follow_up_tab">Follow up</string>
+    <string name="transactions_tab">Transactions</string>
+</resources>
